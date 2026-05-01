@@ -25,4 +25,4 @@ Front-End inteiramente em React-Native, utilizando apenas GSAP ( ScrollTrigger p
 2. <a><a href="https://gsap.com/resources/">GSAP</a> - Espaço de aprendizado da livraria GSAP. Utilizada para auxiliar na geração de animações.</a>  
 
 ###Direitos
-Site programado em projeto da faculdade, <a href="https://github.com/2024-2-MCC2/Projeto10" target="_blank">Link do projeto original</a>.
+Site programado em projeto da faculdade, <a href="https://github.com/2024-2-MCC2/Projeto10" target="_blank">Link do projeto</a>.
