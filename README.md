@@ -15,10 +15,6 @@ Front-End inteiramente em React-Native, utilizando apenas GSAP ( ScrollTrigger p
 &emsp; :green_circle: API: https://sparkenergy-api.onrender.com<br/>
 &emsp; :green_circle:  Banco de Dados no Microsoft Azure<br/><br/>
 
-## 🛠 Estrutura de pastas
-
-( Á adicionar )
-
 ### Bibliotecas
 
 1. <a><a href="https://pt-br.react.dev/reference/react">React</a> - Documentação do React usada para auxiliar no sintaxe e inspiração de códigos.</a> 
